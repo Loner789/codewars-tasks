@@ -2,4 +2,4 @@
 
 Number.prototype.times = function (f) {
   for (let i = 0; i <= Number.prototype.length; i++) i;
-};
+}
